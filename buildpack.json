@@ -1,7 +1,7 @@
 {
   "buildpacks": [
     {
-      "url": "https://https://github.com/tomisi/Sports-Prediction-Model-buildpack-<python>.git"
+      "url": "https://github.com/tomisi/Sports-Prediction-Model-buildpack-<python>.git"
     }
   ]
 }
